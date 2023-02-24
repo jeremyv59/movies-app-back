@@ -1,8 +1,8 @@
 {
-  "name": "mern-stack-movie-2022",
+  "name": "movies-app-back",
   "type": "module",
   "version": "0.0.1",
-  "author": "tuat tran anh",
+  "author": "Jeremy Vaneste",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
